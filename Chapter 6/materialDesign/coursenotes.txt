@@ -1,0 +1,4 @@
+https://github.com/xinthink/react-native-material-kit
+https://github.com/binggg/mrn
+https://github.com/react-native-material-design/react-native-material-design
+https://github.com/xotahal/react-native-material-ui
